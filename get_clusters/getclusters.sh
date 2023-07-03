@@ -2,7 +2,7 @@
 
 scriptDir=../scripts/
 inputPath=../data/ # path to a sentence file
-input=text.in #name of the sentence file
+input=text.in.50 #name of the sentence file
 # model name or path to a finetuned model
 model="bert-base-cased"
 
