@@ -2,7 +2,9 @@
 
 scriptDir=../scripts/
 inputPath=../data/ # path to a sentence file
-input=text.in.50 #name of the sentence file
+input=input("Enter file name ")
+print(input)
+# input=text.in.50 #name of the sentence file
 # model name or path to a finetuned model
 model="bert-base-cased"
 
